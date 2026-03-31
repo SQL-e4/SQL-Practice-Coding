@@ -54,7 +54,7 @@ https://www.datacamp.com/completed/statement-of-accomplishment/course/9a718cf78d
 (Joining Data in SQL)
 
 https://www.datacamp.com/completed/statement-of-accomplishment/course/1900c81b420f1c1a80be0e8b195251055ea44e2f
-(Introductin to SQL)
+(Introduction to SQL)
 
 
 ------------------------------------------------------------------------------------------------
