@@ -43,6 +43,10 @@ Contact:
 
 May 2026 - CompTIA - Core 1: Hardware and Network Troubleshooting (Coursera/IBM)
 https://www.coursera.org/account/accomplishments/verify/452O61LQO4FW
+.
+.
+May 2026 - CompTIA - Core 2: OS, Software, Security and Operational Procedures
+https://coursera.org/share/e5ce73a9e2a7dea8d95a779ad5bd9971
 
 
 ------------------------------------------------------------------------------------------------
