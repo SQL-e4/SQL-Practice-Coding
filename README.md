@@ -48,7 +48,7 @@ https://www.coursera.org/account/accomplishments/verify/452O61LQO4FW
 ------------------------------------------------------------------------------------------------
 
 
-May 2026 - CompTIA - Core 2: OS, Software, Security and Operational Procedures
+May 2026 - CompTIA - Core 2: OS, Software, Security and Operational Procedures (Coursera/IBM)
 https://coursera.org/share/e5ce73a9e2a7dea8d95a779ad5bd9971
 
 
