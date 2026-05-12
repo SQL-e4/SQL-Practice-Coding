@@ -41,6 +41,13 @@ Contact:
 .
 .
 
+May 2026 - CompTIA - Core 1: Hardware and Network Troubleshooting (Coursera/IBM)
+https://www.coursera.org/account/accomplishments/verify/452O61LQO4FW
+
+
+------------------------------------------------------------------------------------------------
+
+
 Apr 2026 - DataCamp - Data Analyst for Power BI.
 https://www.datacamp.com/completed/statement-of-accomplishment/track/eae7bd0b42e4b02081634e59324e77ced04057f8?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink
 
