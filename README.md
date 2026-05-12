@@ -1,8 +1,8 @@
 Hello and welcome to my GitHub repository.
 
-My name is Tony B. (aka SQL-e4), and I am a beginner SQL programmer who is actively learning and developing my skills in data analysis and database querying.
+My name is Omar Beltran (aka Tony) - and I am a beginner SQL programmer who is actively learning and developing my skills in data analysis and database querying.
 
-My goal is to build a career in the IT field as a Data Analyst or SQL Developer.
+My goal is to build a career in the IT field as an IT Support Enginner and/or a Data Analyst.  A total list of my IT Certificatins are listed below.
 
 This repository contains my SQL practice projects, datasets, and query exercises.
 
