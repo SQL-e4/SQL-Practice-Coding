@@ -2,13 +2,13 @@ Hello and welcome to my GitHub repository.
 
 My name is Omar Beltran (aka Tony) - and I am a beginner SQL programmer who is actively learning and developing my skills in data analysis and database querying.
 
-My goal is to build a career in the IT field as an IT Support Enginner and/or a Data Analyst.  A total list of my IT Certificatins are listed below.
+My goal is to build a career in the IT field as an IT Support Enginner and/or a Data Analyst.  A total list of my IT Certifications are listed below.
 
 This repository contains my SQL practice projects, datasets, and query exercises.
 
 I created these projects to improve my ability to work with relational databases, analyze data, and write efficient SQL queries.
 
-Skills I am currently developing:
+***  Data Analytics skills I am currently developing:
 
 - Writing SQL queries (SELECT, JOIN, GROUP BY, HAVING, etc.)
 - Data cleaning and data analysis using SQL
@@ -16,12 +16,29 @@ Skills I am currently developing:
 - Creating queries to answer business and analytical questions
 - Working with real datasets
 
-
 Notes:
 ------
 - All code scripts are written in standard SQL compatible with DataCAmp, SQLite, PostgreSQL, and MySQL.
 - Comments are included within the SQL scripts to explain the logic.
 - This repository is intended to showcase my SQL skills to potential employers.
+
+
+***  IT Support Fundamentals & Skills:
+
+Provide first-level customer and technical support for software, hardware, and 
+network connectivity issues with empathy, patience, and clear non-technical 
+break-down. Respond to and resolve support tickets and service requests in a 
+timely and professional manner.
+
+Apply Incident Management best practices to: Log, Categorize, and prioritize 
+support tickets accurately and ensure proper escalation when needed.
+Have mainained and updated IT knowledge bases to help businesses improve 
+technical support efficiency for employees.
+
+Proficient in Windows Environment & Operating Systems (Windows 10/11)
+Troubleshooted: SW & HW, Printers/PCs/Laptops/Mobile Devices
+Troubleshooted: Network Connectivity Wired/Wired technical issues.
+Utilize Remote Management (RMM): TeamViewer, Zoom/Meet, etc.
 
 
 Contact:
