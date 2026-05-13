@@ -1,0 +1,82 @@
+-- Restaurant Project Code
+
+-- What are the most and least expensive items on the menu.
+
+	SELECT * 
+		FROM "menu.csv"
+		ORDER BY price DESC;
+
+
+-- How many Italian dishes are on the menu?
+
+	SELECT COUNT(*) 
+		FROM "menu.csv"
+		WHERE category = 'Italian';   -- 9 Total
+
+
+-- What are the least and most expensive Italian dishes on the menu?
+
+	SELECT * 
+		FROM "menu.csv"
+		WHERE category = 'Italian'
+		ORDER BY price DESC;
+
+
+-- How many dishes are in each category?
+
+	SELECT category, COUNT(*) AS amt_dishes
+		FROM "menu.csv"
+		GROUP BY category;
+
+
+-- What is the average dish price within each category?
+
+	SELECT category, AVG(price) AS avg_price
+		FROM "menu.csv"
+		GROUP BY category;
+
+
+-- Order_id referes to the ORDERS  and  Order_details_id refers to the ITEMS
+
+--- What is the date range of the Orders Table?
+
+	SELECT * FROM "orders.csv";
+
+
+-- How many orders were made within this date range?
+
+	SELECT *
+		FROM "orders.csv"
+		ORDER BY order_date;
+
+	SELECT MIN(order_date), MAX(order_date)     -- Shows the Minimum & Max date, which shows the date RANGE.
+		FROM "orders.csv";
+
+
+-- How many items were made within this date range?
+
+	SELECT COUNT(DISTINCT order_id)
+		FROM "orders.csv";     -- Total was 5370
+
+
+-- How many items were ordered within this date range?
+
+	SELECT COUNT(*) FROM "orders.csv";     -- Total ws 12234
+
+
+-- Which orders had the most number of items?
+
+	SELECT order_id, COUNT(item_id) AS num_items
+		FROM "orders.csv"
+		GROUP BY order_id
+		ORDER BY num_items DESC;
+
+
+-- How many orders had more than 12 items?
+
+	SELECT COUNT(*) FROM
+		
+	(SELECT order_id, COUNT(item_id) AS num_items     -- This is a SUB-query!
+		FROM "orders.csv"
+		GROUP BY order_id
+			HAVING num_items > 12) AS num_orders;     -- This SUB-query is called num_orders;
