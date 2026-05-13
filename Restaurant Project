@@ -1,4 +1,17 @@
 
+***   RESTAURANT ORDER ANALYSIS   ***
+
+URL:   https://mavenanalytics.io/
+
+TABLES:   menus.csv  and  orders.csv
+
+SOURCE:  Maven Analytics (Guided Projects)
+
+SQL CODE DIALECT:  MYSQL & POSTGRES SQL
+
+
+----------------------------------------------------------------------------------------------------------------
+
 Situation:
 
 I've been hired as a Data Analyst for the Taste of the World Cafe, a restaurant that has 
@@ -14,9 +27,6 @@ Objectives:
 Explore the menu table to get an idea of what's on the new menu.
 Explore the orders table to get an idea of the data that's been collected.
 Use both tables to understand how customers are reacting to the new menu.
-
-SOURCE:  Maven Analytics (Guided Projects)
-URL:   https://mavenanalytics.io/
 
 
 ----------------------------------------------------------------------------------------------------------------
